@@ -1,0 +1,20 @@
+[
+  {
+    "guildId": "690925171996885043",
+    "mainVoiceChannelIds": ["690925171996885047"],
+    "newVoiceChannelSuffix": "🔊♾️",
+    "maxVoiceChannelCount": 10
+  },
+  {
+    "guildId": "690925171996885043",
+    "mainVoiceChannelIds": ["782394250855448606"],
+    "newVoiceChannelSuffix": "🔊2️⃣",
+    "maxVoiceChannelCount": 10
+  },
+  {
+    "guildId": "690925171996885043",
+    "mainVoiceChannelIds": ["690925323981815808"],
+    "newVoiceChannelSuffix": "🔊3️⃣",
+    "maxVoiceChannelCount": 10
+  }
+]
